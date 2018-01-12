@@ -4,11 +4,15 @@ import { NgModule } from '@angular/core';
 import { Hero3MaterialModule} from './materialModules';
 
 import { AppComponent } from './app.component';
+import { AgGridComponent } from './components/ag-grid/ag-grid.component';
+import { HotComponent } from './components/hot/hot.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    AgGridComponent,
+    HotComponent
   ],
   imports: [
     BrowserModule,

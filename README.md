@@ -1,6 +1,15 @@
-# Temp1
+# ngCodeSample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
+
+It is using Angular Material v
+
+It shows an ag-Grid sample using ag-Grid v15
+
+This project allows a prod build with AOT
+
+
+
 
 ## Development server
 
